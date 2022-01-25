@@ -1,22 +1,29 @@
-#
+# Progressive Web App - Budget Tracker
 
 ## Instructions:
 
 ## Details:
+PWA that allows for finance tracking both online and offline!
 
+### Updated existing budget tracker provided by bootcamp to include:
+The ability to enter deposits offline
+The ability to enter expenses offline
+Automatic adding of offline entries when application user is online
 ## Tools Used:
 
 - VSCode
 - JavaScript
 - Node.JS
+- IndexedDB
+- Heroku
 
 ## Website:
 
-https://raymondcerneytech.github.io/ /
+https://budget-tracker-pwa-rc.herokuapp.com/
 
 ### Preview:
 
-![Picture of _____________](./assets/images/ .PNG)
+![Image of Budget Tracker](./budgetTrackerImage.PNG)
 
 ### Author:
 
